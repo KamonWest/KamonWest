@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KamonWest
-- 👀 I’m interested in all things automotive, graphic design, basketball, boxing, and travel.
+- 👋 Hi, I’m Kamon.
+- 👀 I’m a creative front-end developer interested in all things automotive, graphic design, basketball, boxing, and travel.
 - 🌱 I’m currently learning reactJS.
-- 💞️ I’m looking to collaborate on open-source projects that reflect my personal interests, as well as projects that have a positive impact on making everyones lives a bit better each day.
-- 📫 How to reach me https://www.linkedin.com/in/kamon-west/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can determine a car's make/model, and typically year from the taillights.
+- 💞️ I’d love to collaborate on open-source projects to contribute to the greater good of our world. As well as projects that reflect my personal interests.
+- ⚡ Fun fact: I have a sharp eye for vehicles and can often identify the make, model, and specs just by looking at the rear profile.
 
 <!---
 KamonWest/KamonWest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
