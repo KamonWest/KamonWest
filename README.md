@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamon.
-- 👀 I’m a creative front-end developer gravitated towards all things automotive, design, basketball, and travel.
+- 👀 I’m a creative front-end developer fueled by all things automotive, design, basketball, wellness, and travel.
 - 🌱 I’m currently expanding my skills into React and Node.JS.
 - 🌍 I’d love to collaborate on open-source projects that contribute to the greater good of our world. As well as projects that reflect my personal interests.
 
